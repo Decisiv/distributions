@@ -105,10 +105,6 @@ ${bold}${NODENAME} is no longer actively supported!${normal}
   distributions. To learn more about usage, see the repository:
     ${bold}https://github.com/nodesource/distributions${normal}
 "
-        echo
-        echo "Continuing in 20 seconds ..."
-        echo
-        sleep 20
     fi
 }
 
@@ -133,11 +129,6 @@ This script, located at ${bold}https://deb.nodesource.com/setup${normal}, used t
   are supported and how to use the install scripts.
     ${bold}https://github.com/nodesource/distributions${normal}
 "
-
-        echo
-        echo "Continuing in 20 seconds (press Ctrl-C to abort) ..."
-        echo
-        sleep 20
     fi
 }
 
